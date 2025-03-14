@@ -29,9 +29,9 @@ I'm a technology enthusiast, always open to learn and curious.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="cpp logo"  />
+  <img src="https://cdn.simpleicons.org/cpp/3776AB" height="40" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="arduino logo"  />
+  <img src="https://cdn.simpleicons.org/arduino/3776AB" height="40" alt="arduino logo"  />
 </div>
 
 
