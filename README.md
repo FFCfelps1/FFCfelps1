@@ -34,6 +34,10 @@ I'm a technology enthusiast, always open to learn and curious.
   <img src="https://cdn.simpleicons.org/cplusplus/3776AB" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/3776AB" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/3776AB" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/markdown/3776AB" height="40" alt="markdown logo"  />
 </div>
 
 
