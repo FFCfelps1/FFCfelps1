@@ -17,7 +17,7 @@
 
 ## 👨‍🚀 About Me  
 
-I'm a **Computer Engineering student** and **Researcher at the Embedded Systems Lab (NSEE/IMT)**, working in collaboration with the **European Space Agency (ESA)** and the **German Aerospace Center (DLR)**.  
+I'm a **Computer Engineering student** and **Researcher at the Embedded Systems Lab (NSEE/IMT)**, working in collaboration with the **European Space Agencys**  
 
 My research focuses on **hardware emulation, fault injection, and data communication systems** for aerospace missions such as **VERITAS** and **ENVISION**, aimed at studying **Venus' surface and atmosphere**.  
 
